@@ -1,0 +1,6 @@
+[submodule "libs/corpus-reader"]
+	path = libs/corpus-reader
+	url = https://gitlab.com/webnlg/corpus-reader.git
+[submodule "data/webnlg"]
+	path = data/webnlg
+	url = https://gitlab.com/shimorina/webnlg-dataset.git
