@@ -1,8 +1,8 @@
-# OPQL-VKB
+# jointly-embedding
 
 ## Abstract
 
-Inoffically reproduction of paper "Reasoning Over Virtual Knowledge Bases With Open Predicate Relations".
+jointly embedding both triplets from knowledge graph and text corpus.
 
 ## Requirements
 
@@ -12,11 +12,11 @@ Inoffically reproduction of paper "Reasoning Over Virtual Knowledge Bases With O
     ```
 2. Simply create an virtural environment with `python>=3.8` and run `pip install -r requirements.txt` to download the required packages. If you use `anaconda3` or `miniconda`, you can run following instructions to download the required packages in python. 
     ```bash
-        conda create -y -n opql python=3.8
-        conda activate opql
+        conda create -y -n joint python=3.8
+        conda activate joint
         pip install pip --upgrade
         pip install -r requirements.txt
-        conda activate opql
+        conda activate joint
     ```
 
 ## Contributing
